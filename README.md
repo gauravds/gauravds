@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - 👋 I’m Gaurav D. Sharma
-- 👀 I’m interested in real life problems and solutions
-- 🌱 I’m currently learning programming generation VI
+- 👀 I’m interested in real-life problems and solutions
+- 🌱 I’m currently working on project "Programming Generation VI - PG-VI"
 - 💞️ I’m looking to collaborate on new tech ideas
-- 📫 How to reach me email me [er.gauravds@gmail.com](mailto:er.gauravds@gmail.com)
+- 📫 How to reach me, just drop an email at [er.gauravds@gmail.com](mailto:er.gauravds@gmail.com)
+- 🔭 for more information log on to http://gauravds.com
 - ⚡ Fun fact: Code and I talk to each others.
 
 <!--
